@@ -1,7 +1,4 @@
 # Seja Bem-vindo! 👋
-## Eu sou Fabio Medeiros
-
-### Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
 
