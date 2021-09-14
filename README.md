@@ -11,7 +11,7 @@
 
 [![fabioeomedeiros GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioeomedeiros&show_icons=true&theme=radical)](https://github.com/fabioeomedeiros/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)]( https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)]( https://www.linkedin.com/feed/?trk=nav_back_to_linkedin) -->
 
 [![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeomedeiros&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
 
