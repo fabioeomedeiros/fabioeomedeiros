@@ -12,7 +12,7 @@
 
 [![fabioeomedeiros GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioeomedeiros&show_icons=true&theme=radical)](https://github.com/fabioeomedeiros/github-readme-stats)
 
-[![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeomedeiros&layout=compact&theme=radical&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
+[![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeomedeiros&theme=radical&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
 
 ### Grato pela visita!
 
