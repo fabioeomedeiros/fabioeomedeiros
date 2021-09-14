@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
 
 [![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) [![Github Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros) 
 
