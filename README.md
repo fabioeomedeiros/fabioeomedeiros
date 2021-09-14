@@ -14,7 +14,7 @@
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)]( https://www.linkedin.com/feed/?trk=nav_back_to_linkedin) -->
 
-[![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeomedeiros&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
+[![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioeomedeiros&layout=compact&link=https://github.com/fabioeomedeiros)](https://github.com/fabioeomedeiros)
 
 ### Grato pela visita!
 
