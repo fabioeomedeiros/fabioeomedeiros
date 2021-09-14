@@ -11,7 +11,7 @@
 
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
-[![fabioeomedeiros GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioeomedeiros)](https://github.com/fabioeomedeiros/github-readme-stats)
+[![fabioeomedeiros GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioeomedeiros&show_icons=true&theme=https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://github.com/fabioeomedeiros/github-readme-stats)
 
 Grato pela visita!
 
